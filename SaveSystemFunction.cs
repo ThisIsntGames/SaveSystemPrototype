@@ -5,7 +5,6 @@ using System.IO;
 using System.Runtime.Serialization.Formatters.Binary;
 
 //This saves and loads games.
-//Currently this is a monobehavior and is set to an instantiated object.
 //I think I can get away from it being a monobehavior.
 
 namespace SaveSystem
